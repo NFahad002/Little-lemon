@@ -1,4 +1,6 @@
 body {
+    /* margin: 0; */
+    /* padding: 0; */
     background-color: #edefee;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -85,6 +87,7 @@ ul {
     justify-content: space-evenly;
     flex-wrap: wrap;
     align-content: stretch;
+    transition-delay: 1s;
 }
 
 .flexbox {
@@ -114,22 +117,14 @@ ol {
 
 #footerimg {
    width: 84px; 
-   position: relative;
-   top: 30px;
-   right: -52px;
-}
-
-.hrline {
-    width: 630px;
-    float: right;
-    position: absolute;
-    top: 1340px;
-    right: 42px;
+   position: absolute;
+   top: 1219px;
+   right: 1297px; 
 }
 
 .footertext {
     position: absolute;
-    right: 45px;
-    top: 1341px;
+    right: 53px;
+    top: 1325px;
     font-weight: 700;
 }

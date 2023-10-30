@@ -49,9 +49,9 @@ ul {
     position: absolute;
     /* top: 331px; */
     right: 33px;
-    padding: 41px;
+    padding: 69px;
     color: white;
-    font-size: 24px;
+    font-size: 26px;
 }
 
 .linking {
@@ -63,7 +63,7 @@ ul {
 #pasta {
     margin-top: 40px;
     width: 1401px;
-    height: 257px;
+    height: 317px;
     border-radius: 20px;
 }
 

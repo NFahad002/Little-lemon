@@ -47,7 +47,7 @@ ul {
 
 .insidetext {
     position: absolute;
-    top: 331px;
+    /* top: 331px; */
     right: 33px;
     padding: 41px;
     color: white;

@@ -39,7 +39,7 @@ ul {
 }
 
 .outercontainer {
-    /* display: flex; */
+    display: flex;
     position: relative;
     flex-direction: row;
     justify-content: flex-end;
@@ -47,11 +47,11 @@ ul {
 
 .insidetext {
     position: absolute;
-    top: -9px;
+    /* top: 331px; */
     right: 33px;
-    padding: 69px;
+    padding: 41px;
     color: white;
-    font-size: 26px;
+    font-size: 24px;
 }
 
 .linking {

@@ -1,0 +1,90 @@
+body {
+    background-color: #46bacc;
+    font-family: helvetica;
+}
+
+.blackdiv {
+    position: relative;
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 307px;
+    height: 157px;
+    top: 130px;
+    right: -60px;
+}
+
+.whitediv {
+    text-align: center;
+    position: relative;
+    background-color: white;
+    color: black;
+    width: 307px;
+    height: 281px;
+    top: 130px;
+    right: -60px;
+}
+
+.whitetext {
+    font-size: 31px;
+    padding: 28px;
+}
+
+.blacktext {
+    font-size: 48px;
+    padding: 21px;
+    font-weight: 600;
+}
+  
+  .image1 {
+    position: relative;
+    top: -330px;
+    left: 525px;
+  }
+  
+  .image2 {
+    position: absolute;
+    top: -70px;
+    left: 525px;
+  }
+
+.block5 {
+    text-align: center;
+    position: absolute;
+    top: 110px;
+    left: 525px;
+}
+
+.block4 {
+    text-align: center;
+    position: absolute;
+    top: 257px;
+    left: 5px;
+}
+
+.wq {
+    text-shadow: 2px 2px #000;
+    position: absolute;
+    top: 90px;
+    right: 124px;
+    font-family: cursive;
+    font-size: 29px;
+    color: white;
+}
+
+.yellow-text {
+    text-shadow: 2px 2px #000;
+    color: yellow;
+    font-style: italic;
+    font-weight: bold;
+}
+#block3 {
+    position: absolute;
+    top: 510px;
+    left: 235px;
+    width: 202px;
+}
+
+.blkimg {
+    color:aliceblue
+}

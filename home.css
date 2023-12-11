@@ -1,0 +1,49 @@
+body {
+    background-color: #061433;
+    font-family: helvetica;
+}
+
+.borderbox {
+    width: 370px;
+    height: 310px;
+    background-color: #215968;
+    margin-top: 330px;
+    margin-left: -8px;
+}
+
+.img1 {
+    position: absolute;
+    left: 775px;
+    top: 139px;
+    width: 480px;
+    height: 480px;
+}
+
+.qq {
+    padding: 18px;
+    position: relative;
+    top: 31px;
+}
+
+.qe {
+    font-size: 32px;
+    color: white;
+}
+
+.qqw {
+    font-weight: 600;
+    color: #dbeef4;
+    font-size: 47px;
+    line-height: 1.1;
+}
+
+.qqqq {
+    margin-top: 26px;
+    color: white;
+    font-size: 20px;
+    color: #dbeef4;
+}
+
+.qq2 {
+    font-size: 18px;
+}

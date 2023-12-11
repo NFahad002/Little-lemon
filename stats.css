@@ -1,4 +1,6 @@
 body {
+    margin: 0;
+    padding: 0;
     font-family: 'Poppins', sans-serif;
     background-color: #0a0c1b;
 }   
@@ -15,13 +17,15 @@ body {
 .innercontainer {
     position: absolute;
     background-color: #1c1938;
-    width: 380px;
+    width: 472px;
     height: 446px;
 }
 
 .img2 {
     position: absolute;
     right: 0px;
+    width: 448px;
+    height: 447px;
 }
 
 .text1 {
@@ -37,10 +41,11 @@ body {
 }
 
 .text1-1 {
-    font-size: 17px;
+    padding: 2px;
+    font-size: 18px;
     color: white;
     text-align: left;
-    margin-left: 27px;
+    margin-left: 28px;
 }
 
 .zzzz {
@@ -54,12 +59,38 @@ body {
 
 .bold1 {
     color: white;
-    font-size: 18px;
+    font-size: 29px;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.1;
 }
 
 .cbold{
     color: grey;
     font-size: 14px;
+}
+
+.btn1 {
+    position: absolute;
+    right: 830px;
+    top: 540px;
+}
+
+.btntxt {
+    font-size: 22px;
+    cursor: pointer;
+    border: 2px solid grey;
+    border-radius: 7px;
+}
+
+@media screen and (max-width: 750px)
+{
+    .container {
+        font-size: 10px;
+        background-color: white;
+        position: absolute;
+        width: 920px;
+        height: 446px;
+        right: 280px;
+        top: 154px;
+    }   
 }
